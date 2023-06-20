@@ -1,0 +1,2 @@
+# ixevent
+simple event emitter
