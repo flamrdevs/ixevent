@@ -1,6 +1,6 @@
 {
   "name": "ixevent",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple event emitter",
   "type": "module",
   "main": "./dist/index.cjs",
